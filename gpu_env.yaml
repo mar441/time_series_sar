@@ -1,0 +1,9 @@
+name: gpu_env_118
+channels:
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - cudatoolkit=11.8
+  - cudnn
+

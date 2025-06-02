@@ -1,0 +1,25 @@
+name: time_series
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - tensorflow
+  - cudatoolkit
+  - cudnn
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - bayesian-optimization
+  - xgboost
+  - lightgbm
+  - optuna
+  - tqdm
+  - joblib
+  - python-dateutil
+  - pytz
+  - pip=
+  - pip:
+    - tensorflow
