@@ -1,7 +1,6 @@
 # Multi-Point Time Series Forecasting
 
-This project implements a comprehensive time series forecasting system that supports multiple model architectures and can handle multiple time series points simultaneously.
-
+This project implements a comprehensive time series forecasting na anomaly detection system that supports multiple model architectures and can handle multiple time series points simultaneously.
 ## Features
 
 - Multiple model architectures:
@@ -14,6 +13,7 @@ This project implements a comprehensive time series forecasting system that supp
 - Fine-tuning capabilities
 - Comprehensive visualization tools
 - Detailed performance metrics and comparisons
+- Anomaly detection
 
 ## Requirements
 
